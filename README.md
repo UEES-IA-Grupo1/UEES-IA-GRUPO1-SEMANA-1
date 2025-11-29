@@ -11,6 +11,8 @@ Tarea 1, semana 1 Grupo 1 Materia Inteligencia Artificial
 **Erick Joan Nuñez Cocha**
 
 **Ricardo Andrés Campoverde Crespo**
+
+
 ---
 
 ## 🧪 Descripción del Proyecto
