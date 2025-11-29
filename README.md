@@ -4,6 +4,10 @@ Tarea 1, semana 1 Grupo 1 Materia Inteligencia Artificial
 **Universidad Espíritu Santo – UEES**  
 **Grupo 1 – 2024/2025**
 
+**Viviana Carolina Tuárez Vergara**
+**Carlos Alfonso Granda Castillo**
+**Erick Joan Nuñez Cocha**
+**Ricardo Andrés Campoverde Crespo**
 ---
 
 ## 🧪 Descripción del Proyecto
